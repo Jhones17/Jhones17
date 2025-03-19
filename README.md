@@ -1,3 +1,2 @@
-botuperfunny.netlify.app
 
 
